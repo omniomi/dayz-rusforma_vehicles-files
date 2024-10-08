@@ -15,9 +15,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "IJ_2140_SL_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "IJ_2140_SL_doors_driver",
@@ -130,9 +128,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "AEC_Matador_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "AEC_Matador_doors_driver",
@@ -169,9 +165,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "AEC_Matador_doors_cargo3"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "AEC_Matador_doors_hood",
@@ -208,9 +202,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "AEC_Matado_tent"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "artillery_tractor_wheel",
@@ -221,9 +213,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "artillery_tractor_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "artillery_tractor_doors_driver",
@@ -276,9 +266,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "artillery_tractor_tent"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "AZLK_2141RF_wheel",
@@ -289,9 +277,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "AZLK_2141RF_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "AZLK_2141RF_doors_driver",
@@ -404,9 +390,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "azlk_400_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "azlk_400_doors_driver",
@@ -487,9 +471,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "BRDM2_RF_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "BRDM2_RF_doors_driver",
@@ -626,9 +608,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "BTR_80_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "BTR_80_doors_driver",
@@ -787,9 +767,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "F1_Pickup_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "F1_Pickup_doors_driver",
@@ -856,9 +834,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "GAZ21_Volga_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "GAZ21_Volga_doors_driver",
@@ -967,9 +943,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "GAZ_12_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "GAZ_12_doors_driver",
@@ -1064,9 +1038,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "GAZ_13_Chaika_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "GAZ_13_Chaika_doors_driver",
@@ -1173,9 +1145,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "Gaz_233002_Tiger_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "Gaz_233002_Tiger_doors_driver",
@@ -1238,9 +1208,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "Gaz_233002_Tiger_tent"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "GAZ_3110_volga_wheel",
@@ -1251,9 +1219,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "GAZ_3110_volga_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "GAZ_3110_volga_doors_driver",
@@ -1348,9 +1314,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "GAZ_33081_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "GAZ_33081_doors_driver",
@@ -1426,9 +1390,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "GAZ_33081_tent"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "gaz_51_wheel",
@@ -1519,9 +1481,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "Gaz_53RF_WheelDouble"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "Gaz_53RF_doors_driver",
@@ -1532,9 +1492,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "Gaz_53RF_doors_driver"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "Gaz_53RF_doors_codriver",
@@ -1545,9 +1503,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "Gaz_53RF_doors_codriver"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "Gaz_53RF_doors_hood",
@@ -1558,9 +1514,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "Gaz_53RF_doors_hood"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "Gaz_53RF_doors_trunk",
@@ -1593,9 +1547,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "GAZ_66_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "GAZ_66_doors_driver",
@@ -1636,9 +1588,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "GAZ_66_doors_cargo3"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "GAZ_66_doors_cargo4",
@@ -1649,9 +1599,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "GAZ_66_doors_cargo4"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "GAZ_66_doors_trunk",
@@ -1662,9 +1610,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "GAZ_66_doors_trunk"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "GAZ_69_rus_wheel",
@@ -1675,9 +1621,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "GAZ_69_rus_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "GAZ_69_rus_doors_driver",
@@ -1772,9 +1716,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "GAZ_69_rus_tent"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "GAZ_M20_wheel",
@@ -1785,9 +1727,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "GAZ_M20_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "GAZ_M20_doors_driver",
@@ -1900,9 +1840,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "IJ_2125_Kombi_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "IJ_2125_Kombi_doors_driver",
@@ -2009,9 +1947,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "ij_2715_RF_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "ij_2715_RF_doors_driver",
@@ -2097,9 +2033,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "kamaz_4310RUS_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "kamaz_4310RUS_doors_driver",
@@ -2158,9 +2092,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "kamaz_4310RUS_tent"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "KAVZ685_RF_wheel",
@@ -2185,9 +2117,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "KAVZ685_RF_WheelDouble"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "KAVZ685_RF_doors_driver",
@@ -2258,9 +2188,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "Kraz_255B_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "Kraz_255B_doors_driver",
@@ -2327,9 +2255,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "kraz_255B_tent"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "Kraz_255B_doors_trunk_kung",
@@ -2340,9 +2266,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "Kraz_255B_doors_trunk_kung"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "KubanG1_wheel",
@@ -2367,9 +2291,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "KubanG1_WheelDouble"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "KubanG1_doors_driver",
@@ -2433,9 +2355,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "KubanG1_doors_trunk1"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "Niva2329_wheel",
@@ -2446,9 +2366,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "Niva2329_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "Niva2329_doors_driver",
@@ -2525,9 +2443,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "LIAZ_677RF_WheelDouble"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "LIAZ_677RF_doors_driver",
@@ -2677,9 +2593,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "m4_tractor_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "m4_tractor_doors_hood",
@@ -2704,9 +2618,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "Mercedes_G4_W31_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "Mercedes_G4_W31_doors_driver",
@@ -2815,9 +2727,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "moskvich_407_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "moskvich_407_doors_driver",
@@ -2918,9 +2828,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "MTLB_RF_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "MTLB_RF_doors_driver",
@@ -3075,9 +2983,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "opel_blitz_WheelDouble"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "opel_blitz_doors_driver",
@@ -3153,9 +3059,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "opel_blitz_tent"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "PAZ_672_wheel",
@@ -3180,9 +3084,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "PAZ_672_WheelDouble"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "PAZ_672_doors_driver",
@@ -3219,9 +3121,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "PAZ_672_doors_hood"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "T_34_76_wheel",
@@ -3302,9 +3202,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "UAZ_27722_mchs_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "UAZ_27722_mchs_doors_driver",
@@ -3381,9 +3279,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "UAZ_27722_mchs_migalka"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "UAZ_31519_Police_wheel",
@@ -3394,9 +3290,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "UAZ_31519_Police_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "UAZ_31519_Police_doors_driver",
@@ -3497,9 +3391,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "UAZ_3163_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "UAZ_3163_doors_driver",
@@ -3660,9 +3552,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "UAZ_3172_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "UAZ_3172_doors_driver",
@@ -3769,9 +3659,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "UAZ_33094_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "UAZ_33094_doors_driver",
@@ -3838,9 +3726,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "UAZ_33094_doors_hood"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "UAZ_33094_tent",
@@ -3851,9 +3737,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "UAZ_33094_tent"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "UAZ_3962_wheel",
@@ -3864,9 +3748,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "UAZ_3962_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "UAZ_3962_doors_driver",
@@ -3957,9 +3839,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "UAZ_3962_doors_hood"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "UAZ_469_army_wheel",
@@ -3970,9 +3850,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "UAZ_469_army_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "UAZ_469_army_doors_driver",
@@ -4079,9 +3957,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "UAZ_469_army_tent"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "UAZ_469_Hunter_wheel",
@@ -4246,9 +4122,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "UAZ_Patrot_Pikap_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "UAZ_Patrot_Pikap_doors_driver",
@@ -4361,9 +4235,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "URAL_375_1964_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "URAL_375_1964_doors_driver",
@@ -4416,9 +4288,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "URAL_375_1964_tent"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "VAZ_2104RF_wheel",
@@ -4429,9 +4299,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "VAZ_2104RF_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "VAZ_2104RF_doors_driver",
@@ -4532,9 +4400,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "VAZ_2105_RUS_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "VAZ_2105_RUS_doors_driver",
@@ -4653,9 +4519,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "vaz_2106_RF_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "vaz_2106_RF_doors_driver",
@@ -4768,9 +4632,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "VAZ_2107RF_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "VAZ_2107RF_doors_driver",
@@ -4883,9 +4745,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "VAZ_21099R_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "VAZ_21099R_doors_driver",
@@ -4986,9 +4846,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "VAZ_2109_RF_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "VAZ_2109_RF_doors_driver",
@@ -5212,9 +5070,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "ZAZ_965_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "ZAZ_965_doors_driver",
@@ -5285,9 +5141,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "ZAZ_968_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "ZAZ_968_doors_driver",
@@ -5358,9 +5212,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "ZAZ_968M_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "ZAZ_968M_doors_driver",
@@ -5441,9 +5293,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "ZIL133_double_wheelDouble"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "ZIL133_double_doors_driver",
@@ -5519,9 +5369,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "ZIL133_double_doors_trunk"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "ZIL133_double_tent",
@@ -5532,9 +5380,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "ZIL133_double_tent"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "ZIL_130_wheel",
@@ -5559,9 +5405,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "ZIL_130_WheelDouble"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "ZIL_130_doors_driver",
@@ -5617,9 +5461,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "ZIL_130_tent"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "ZIL_130_ac40_wheel",
@@ -5828,9 +5670,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "ZIL_157_rus_wheel"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "ZIL_157_rus_doors_driver",
@@ -5900,9 +5740,7 @@
       "MinStockThreshold": 1,
       "QuantityPercent": -1,
       "SpawnAttachments": [],
-      "Variants": [
-        "ZIL_157_rus_tent"
-      ]
+      "Variants": []
     },
     {
       "ClassName": "ZiS5_Benzovoz_wheel",
